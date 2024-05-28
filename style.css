@@ -1,0 +1,30 @@
+*{
+    font-family: "Mulish", sans-serif;
+}
+body{
+    background-image: linear-gradient(rgb(137, 15, 15),rgb(141, 81, 197));
+}
+.container{
+    width:450px;
+    padding: 22px;
+    color: #fff;
+    text-align: center;
+    margin:40px 100px;
+    background-color: rgb(29, 100, 100);
+    
+}
+button{
+    width: 140px;
+    height: 38px;
+    background-color: rgb(191, 44, 44);
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 24px;
+}
+img{
+    width: 20%;
+
+}
